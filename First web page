@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name = "author" content="Dinesh">
+    <title>
+        WEBSITE DEVELOPMENT
+    </title>
+    <link rel="icon" href="Gear5Luffy.png" type="image/x-icon">
+    <link rel="stylesheet" href="main.css" type="text/css">
+</head>
+<body>
+    <header>
+        <h1>MISSION : </h1>
+        <nav aria-label="primary-navigation">
+            <ul>
+                <li><a href="#First">First to Learn</a></li>
+                <li><a href="#Second">Second to Learn</a></li>
+                <li><a href="#Third">Third to Learn</a></li>
+                <li><a href="#Love">Love to Learn</a></li>
+            </ul>
+        </nav>
+        <hr>
+    </header>
+    <main>
+        <section id="First">
+            <h2>FIRST TO COMPLETE : </h2>
+            <p><em>LOVE TO LEARN THE <strong>WEB DEVELOPMENT</strong> AND LEARNING <strong>HTML</strong></em></p>
+            <hr>
+        </section>
+        <p><a href="#">Back to top&uarr;</a></p>
+        <section id="Second">
+            <h2>SECOND TO LEARN : </h2>
+            <p><em>LOVE TO LEARN THE <strong>WEB DEVELOPMENT</strong> AND LEARNING <strong>CSS</strong></em></p>
+            <hr>
+        </section>
+        <p><a href="#">Back to top&uarr;</a></p>
+        <section id="Third">
+            <h2>THIRD TO LEARN : </h2>
+            <p>
+                <em>LOVE TO LEARN THE <strong>WEB DEVELOPMENT</strong> AND LEARNING <strong>JAVASCRIPT</strong></em>
+                <br><em><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Complete it!</strong></em>
+                <br> Place : <address>Madurai</address>
+            <br>
+            <p>
+            <dl>
+                <dt>#HTML</dt> <dd><em>Love to code using HTML</em></dd>
+                <dt>#CSS</dt>   <dd><em>Love to code using CSS</em></dd>
+                <dt>#JS</dt>    <dd><em>Love to code using JS</em></dd>
+                <dt>#Frontend Developer</dt>   <dd><em>Love to develop Frontend of the Application</em></dd>
+                <dt>#Developer Profile</dt> <dd><a href="http://127.0.0.1:5501/Profile.html">Profile</a></dd>
+            </dl>
+            <aside>
+                <details>
+                    <summary>
+                        I love to <mark>Learn Coding!</mark> 
+                    </summary>
+                    <p>I Learned C,Java,Python,HTML and I start coding at 11 AM</p>
+                </details>
+            </aside>
+            <br>
+            <table>
+                <tr>
+                    <td><time datetime="08.00">8AM</time> to <time datetime="10.00">10AM</time></td>
+                    <td>Morning routine</td>
+                </tr>
+                <tr>
+                    <td><time datetime="10.00">10AM</time> to <time datetime="12.00">12AM</time></td>
+                    <td>Write Code</td>
+                </tr>
+            </table>
+    <!--&copy;Comment line-->
+        <hr>
+        <p><a href="#">Back to top&uarr;</a></p>
+        </section>
+        <section id="Love">
+            <h2>LOVE TO LEARN : </h2>
+            <p>
+                <em>LOVE TO LEARN THE <strong>WEB DEVELOPMENT</strong> AND LEARNING <strong>JAVASCRIPT</strong></em>
+                <br><em><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Complete it!</strong></em>
+                <br> Place : <address>Madurai</address>
+            <br>
+            <p>
+            <dl>
+                <dt>#HTML</dt> <dd><em>Love to code using HTML</em></dd>
+                <dt>#CSS</dt>   <dd><em>Love to code using CSS</em></dd>
+                <dt>#JS</dt>    <dd><em>Love to code using JS</em></dd>
+                <dt>#Frontend Developer</dt>   <dd><em>Love to develop Frontend of the Application</em></dd>
+            </dl>
+            <br><p><abbr title="Love to code">LTC</abbr></p>
+            <br><p><abbr title="HTML LINK"><a href="https://developer.mozilla.org/en-US/">MDN</a></abbr></p>
+            <hr>
+        </section>
+        <p><a href="#">Back to top&uarr;</a></p>
+    </main>
+    <footer>
+        &lt;&lt;&lt;&copy;Dinesh &gt;&gt;&gt;
+        <img src="images/itachi.jpg" alt="Itachi photo" title="My Inspiration" width="200" height="200">
+        <p><a href="#">Back to top&uarr;</a></p>
+        <figure>
+            <img src="images/Shisui.jpg" alt="shisui photo" title="Inspiration" width="200" height="200" loading="lazy">
+            <figcaption>Koto amatshukuyami</figcaption>
+        </figure>
+        <p><a href="#">Back to top&uarr;</a></p>
+    </footer>
+</body> 
+</html>
